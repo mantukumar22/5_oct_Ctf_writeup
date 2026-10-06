@@ -20,7 +20,7 @@ Each entry below is tagged by write-up status:
 | [Buried in the Binary](writeups/buried-in-the-binary.md) | Reverse Engineering | 100 | not retained | Steps Followed |
 | [Password Reuse](writeups/password-reuse.md) | Passwords | 100 | not retained | Steps Followed |
 | [lost flash drive](writeups/lost-flash-drive.md) | Forensics | 100 | `flag{its_adventure_time_yee_boi!!!}` | Technique Summary |
-| [unk](writeups/unk.md) | Forensics | 100 | `flag{old_macdonald_or_mcdonalds_supplier}` | Technique Summary |
+| [unk](writeups/unk.md) | Forensics | 100 | `flag{old_macdonald_or_mcdonalds_supplier:}` | Technique Summary |
 | [Ramp Cat](writeups/ramp-cat.md) | Forensics | 100 | `flag{Koneko}` | Technique Summary |
 
 **10 write-ups documented here, 1,350 points.**
